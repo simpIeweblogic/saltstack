@@ -1,0 +1,2 @@
+swl:
+  app_nodes:
